@@ -67,6 +67,7 @@ Even though new model and technology are developed every year, sometimes weather
 The two images are initially without borders.
 ![](/images/forcast.png)
 ![](/images/reality.png)  
+
 I added border around my images and annotations to improve the readability of my meme.
 
 Details of the meme image file:
