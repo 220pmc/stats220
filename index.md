@@ -64,7 +64,7 @@ Even though new model and technology are developed every year, sometimes weather
 
 *This meme is to describe my feeling when a weather report completely goes wrong*.  
 
-The two images are initially without borders.
+The two images are initially without borders.  
 ![](/images/forcast.png)
 ![](/images/reality.png)  
 
