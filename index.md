@@ -1,5 +1,5 @@
-# Stats220 Assignment 1
-* Part A
+# Stats220
+* Assignment 1
 * Due Date: 21st March, 2022
 
 ## Meme
