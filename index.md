@@ -53,7 +53,10 @@ image_write(meme, "./images/my_meme.png")
 ```
 ### Motivation of creating this meme
 Have you ever trusted a weather forcast and turned out that the weather forcast was wrong?  
-Prediction of weather is extrememly difficult as it involves some many uncertainties [1]  
+Prediction of weather is extrememly difficult as meteorologists are facing various limitations. [1]  
+* Availability of data
+* Time allowed to analyses the data
+* Complexity of weather events  
 Even though new model and technology are developed every year, sometimes weather forecast might still go wrong.  
 This meme is describing my feeling when a weather report completely goes wrong.  
 
