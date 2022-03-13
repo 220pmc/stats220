@@ -14,7 +14,8 @@ forcast <- image_read("./images/forcast.png") %>%
 
 reality <- image_read("./images/reality.png") %>%
   image_scale(480) %>%
-  image_extent("500x500", color = "#a30000")
+  image_extent("500x500",
+               color = "#a30000")
 
 watch_text <- image_blank(width = 500,
                      height = 500,
@@ -25,7 +26,8 @@ watch_text <- image_blank(width = 500,
                  font = "Impact",
                  gravity = "north") %>%
   image_scale(480) %>%
-  image_extent("500x500", color = "#a30000")
+  image_extent("500x500",
+               color = "#a30000")
 
 trust_text <- image_blank(width = 500,
                      height = 500,
@@ -36,7 +38,8 @@ trust_text <- image_blank(width = 500,
                  font = "Impact",
                  gravity = "north") %>%
   image_scale(480) %>%
-  image_extent("500x500", color = "#a30000")
+  image_extent("500x500",
+               color = "#a30000")
 
 meme_photo <- c(forcast, reality) %>%
   image_append(stack = TRUE)
@@ -48,7 +51,8 @@ meme <- c(meme_photo, meme_text) %>%
   image_append()
 
 meme <- image_scale(meme, 980) %>%
-  image_extent("1000x1000", color = "#a30000")
+  image_extent("1000x1000",
+               color = "#a30000")
 
 image_write(meme, "./images/my_meme.png")
 ```
