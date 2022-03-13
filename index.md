@@ -61,7 +61,7 @@ Prediction of weather is extrememly difficult as meteorologists are facing vario
 3. **Complexity** of weather events  
 
 Even though new model and technology are developed every year, sometimes weather forecast might still go wrong.  
-This meme is to describe my feeling when a weather report *completely goes wrong*.  
+*This meme is to describe my feeling when a weather report completely goes wrong*.  
 I added border around my images and annotations to improve the readability of my meme.
 
 Details of the meme image file:
