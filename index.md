@@ -67,7 +67,7 @@ Even though new model and technology are developed every year, sometimes weather
 
 *This meme is to describe our feelings when a weather report completely goes wrong:* ***Frustration***.  
 
-The 4-square style meme has long been popular in the internet. However, sometimes the readability of memes in this style is rather poor. Thus, I added border around the images and annotations to improve the readability of my meme.
+The 4-square style meme has long been popular in the internet. However, sometimes the readability of memes in this style is rather poor. Thus, I added border around the images and annotations to improve the readability of my meme.  
 Below are the two original images without borders:  
 ![](/images/forcast.png)
 ![](/images/reality.png)  
