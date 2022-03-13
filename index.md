@@ -1,9 +1,11 @@
 # Stats220 Assignment 1
-## Part A
-### Meme
+* Part A
+* Due Date: 21st March, 2022
+
+## Meme
 This is my newly created meme.
 ![my_meme](/images/my_meme.png)
-### Used R and {magick} package code
+## Used R and {magick} package code
 ```
 library(magick)
 
@@ -51,12 +53,12 @@ meme <- image_scale(meme, 980) %>%
 
 image_write(meme, "./images/my_meme.png")
 ```
-### Motivation of creating this meme
+## Motivation of creating this meme
 Have you ever trusted a weather forcast and turned out that the weather forcast was wrong?  
 Prediction of weather is extrememly difficult as meteorologists are facing various limitations. [1]  
-* Availability of data
-* Time allowed to analyses the data
-* Complexity of weather events  
+1. Availability of data
+2. Time allowed to analyses the data
+3. Complexity of weather events  
 
 Even though new model and technology are developed every year, sometimes weather forecast might still go wrong.  
 This meme is describing my feeling when a weather report completely goes wrong.  
