@@ -63,7 +63,7 @@ Even though new model and technology are developed every year, sometimes weather
 
 *This meme is to describe our feelings when a weather report completely goes wrong:* ***Frustration***.  
 
-Below are the two images initially without borders.  
+Below are the two images initially without borders:  
 ![](/images/forcast.png)
 ![](/images/reality.png)  
 
