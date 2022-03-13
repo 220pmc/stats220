@@ -52,11 +52,11 @@ meme <- image_scale(meme, 980) %>%
 image_write(meme, "./images/my_meme.png")
 ```
 ### Motivation of creating this meme
-Have you ever trusted a weather forcast and turned out that the weather forcast was wrong?
-Prediction of weather is extrememly difficult as it involves some many uncertainties [1]
-Even though new model and technology are developed every year, sometimes weather forecast might still go wrong.
-This meme is describing my feeling when a weather report completely goes wrong.
+Have you ever trusted a weather forcast and turned out that the weather forcast was wrong?  
+Prediction of weather is extrememly difficult as it involves some many uncertainties [1]  
+Even though new model and technology are developed every year, sometimes weather forecast might still go wrong.  
+This meme is describing my feeling when a weather report completely goes wrong.  
 
 ## Reference
-[1] Tyler Herrington, “Why is the weather so hard to predict?” Let's Talk Science, 23-Sep-2019. [Online].
-Available:[https://letstalkscience.ca/educational-resources/stem-in-context/why-weather-so-hard-predict](https://letstalkscience.ca/educational-resources/stem-in-context/why-weather-so-hard-predict) [Accessed: 13-Mar-2022]
+[1] Tyler Herrington, “Why is the weather so hard to predict?” Let's Talk Science, 23-Sep-2019. [Online].  
+Available: [https://letstalkscience.ca/educational-resources/stem-in-context/why-weather-so-hard-predict](https://letstalkscience.ca/educational-resources/stem-in-context/why-weather-so-hard-predict) [Accessed: 13-Mar-2022]
