@@ -61,7 +61,11 @@ Prediction of weather is extrememly difficult as meteorologists are facing vario
 3. Complexity of weather events  
 
 Even though new model and technology are developed every year, sometimes weather forecast might still go wrong.  
-This meme is describing my feeling when a weather report completely goes wrong.  
+This meme is to describe my feeling when a weather report completely goes wrong.
+The details of the meme image are:
+* Format: png
+* File size: 709 KB
+* Resolution: 1000 x 1000
 
 ## Reference
 [1] Tyler Herrington, “Why is the weather so hard to predict?” Let's Talk Science, 23-Sep-2019. [Online].  
