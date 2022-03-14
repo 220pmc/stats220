@@ -70,7 +70,7 @@ Below is an illustration of a typical 4-square meme:
 
 However, sometimes the readability of 4-square memes are rather low. Thus, I added border around the images and annotations to improve the readability of my meme.  
 The two original images are border-free.  
-![](/images/forcast.png)
+![](/images/forecast.png)
 ![](/images/reality.png)  
 
 File details the meme image:
