@@ -5,7 +5,7 @@
 This is my newly created meme. Have you ever had a similar experience?
 ![my_meme](/images/my_meme.png)
 ## Used R and {magick} package code
-```
+```r
 library(magick)
 
 forecast <- image_read("./images/forecast.png") %>%
@@ -51,7 +51,7 @@ meme <- image_scale(meme, 980) %>%
   image_extent("1000x1000", color = "#a30000")
 
 image_write(meme, "./images/my_meme.png")
-```r
+```
 ## Motivation of creating this meme
 Have you ever trusted a weather forecast and turned out that the weather forecast was wrong?  
 It is not uncommon that weather forecast predictions are inaccurate.  
