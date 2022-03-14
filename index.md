@@ -53,28 +53,27 @@ meme <- image_scale(meme, 980) %>%
 image_write(meme, "./images/my_meme.png")
 ```
 ## Motivation of creating this meme
-Have you ever trusted a weather forcast and turned out that the weather forcast was wrong?  
-Prediction of weather is extrememly difficult as meteorologists are facing various *limitations*[1]:   
+Have you ever trusted a weather forecast and turned out that the weather forecast was wrong?  
+It is not uncommon that weather forecast predictions are inaccurate.  
+Even though there are newer advanced models and instruments nowadays, prediction of weather is still extremely hard as meteorologists are facing various *limitations*[1]:   
 1. **Availability** of data
 2. **Time allowed** to analyses the data
 3. **Complexity** of weather events  
 
-Even though new model and technology are developed every year, sometimes weather forecast might still go wrong.  
-
-*This meme is to describe our feelings when a weather report completely goes wrong:* ***Frustration***.  
+*This meme is to describe our feelings when a weather report completely goes wrong: ***Frustration***.  
 
 The 4-square style meme has long been popular in the internet.  
-Below is an illustration of a 4-square meme:
+Below is an illustration of a typical 4-square meme:
 | Photo 1 | Caption |
 | --- | --- |
 | **Photo 2** | **Caption** |
 
-However, sometimes the readability of memes in this style is rather poor. Thus, I added border around the images and annotations to improve the readability of my meme.  
+However, sometimes the readability of 4-square memes are rather low. Thus, I added border around the images and annotations to improve the readability of my meme.  
 The two original images are border-free.  
 ![](/images/forcast.png)
 ![](/images/reality.png)  
 
-Details of the meme image file:
+File details the meme image:
 * Format: png
 * File size: 709 KB
 * Resolution: 1000 x 1000
