@@ -8,9 +8,10 @@ This is my newly created meme.
 ```
 library(magick)
 
-forcast <- image_read("./images/forcast.png") %>%
+forecast <- image_read("./images/forecast.png") %>%
   image_scale(480) %>%
-  image_extent("500x500", color = "#a30000")
+  image_extent("500x500",
+               color = "#a30000")
 
 reality <- image_read("./images/reality.png") %>%
   image_scale(480) %>%
@@ -18,9 +19,9 @@ reality <- image_read("./images/reality.png") %>%
                color = "#a30000")
 
 watch_text <- image_blank(width = 500,
-                     height = 500,
-                     color = "#fff8ae") %>%
-  image_annotate(text = "\n\nWhen I watched the\nweather forcast",
+                          height = 500,
+                          color = "#fff8ae") %>%
+  image_annotate(text = "\n\nWhat I watched in\n the weather forecast",
                  color = "#000000",
                  size = 50,
                  font = "Impact",
@@ -41,7 +42,7 @@ trust_text <- image_blank(width = 500,
   image_extent("500x500",
                color = "#a30000")
 
-meme_photo <- c(forcast, reality) %>%
+meme_photo <- c(forecast, reality) %>%
   image_append(stack = TRUE)
 
 meme_text <- c(watch_text, trust_text) %>%
