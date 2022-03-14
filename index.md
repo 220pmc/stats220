@@ -48,8 +48,7 @@ meme <- c(meme_photo, meme_text) %>%
   image_append()
 
 meme <- image_scale(meme, 980) %>%
-  image_extent("1000x1000",
-               color = "#a30000")
+  image_extent("1000x1000", color = "#a30000")
 
 image_write(meme, "./images/my_meme.png")
 ```
