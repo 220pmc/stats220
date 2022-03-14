@@ -63,7 +63,7 @@ Even though there are newer advanced models and instruments nowadays, prediction
 *This meme is to describe our feelings when a weather report completely goes wrong: ***Frustration***.  
 
 The 4-square style meme has long been popular in the internet.  
-Below is an illustration of a typical 4-square meme:
+Below is an illustration of a typical 4-square meme:  
 | Photo 1 | Caption |
 | --- | --- |
 | **Photo 2** | **Caption** |
