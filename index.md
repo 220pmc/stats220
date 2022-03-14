@@ -21,7 +21,7 @@ reality <- image_read("./images/reality.png") %>%
 watch_text <- image_blank(width = 500,
                           height = 500,
                           color = "#fff8ae") %>%
-  image_annotate(text = "\n\nWhat I watched in\n the weather forecast",
+  image_annotate(text = "\n\nWhat I watched in\nthe weather forecast",
                  color = "#000000",
                  size = 50,
                  font = "Impact",
