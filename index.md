@@ -63,7 +63,8 @@ Even though there are newer advanced models and instruments nowadays, prediction
 *This meme is to describe our feelings when a weather report completely goes wrong: ***Frustration***.  
 
 The 4-square style meme has long been popular in the internet.  
-Below is an illustration of a typical 4-square meme:  
+Below is an illustration of a typical 4-square meme:
+
 | Photo 1 | Caption |
 | --- | --- |
 | **Photo 2** | **Caption** |
@@ -83,4 +84,4 @@ File details the meme image:
 Available: [https://letstalkscience.ca/educational-resources/stem-in-context/why-weather-so-hard-predict](https://letstalkscience.ca/educational-resources/stem-in-context/why-weather-so-hard-predict) [Accessed: 13-Mar-2022]
 
 #### Last Update
-14/3/2022 21:37
+14/3/2022 21:38
