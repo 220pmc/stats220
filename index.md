@@ -51,7 +51,7 @@ meme <- image_scale(meme, 980) %>%
   image_extent("1000x1000", color = "#a30000")
 
 image_write(meme, "./images/my_meme.png")
-```
+```r
 ## Motivation of creating this meme
 Have you ever trusted a weather forecast and turned out that the weather forecast was wrong?  
 It is not uncommon that weather forecast predictions are inaccurate.  
@@ -84,4 +84,4 @@ File details the meme image:
 Available: [https://letstalkscience.ca/educational-resources/stem-in-context/why-weather-so-hard-predict](https://letstalkscience.ca/educational-resources/stem-in-context/why-weather-so-hard-predict) [Accessed: 13-Mar-2022]
 
 #### Last Update
-14/3/2022 21:45
+14/3/2022 21:49
