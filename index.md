@@ -74,7 +74,7 @@ Below is an illustration of a 4-square meme:
 | **Photo 2** | **Caption** |
 
 However, sometimes the readability of memes in this style is rather poor. Thus, I added border around the images and annotations to improve the readability of my meme.  
-Below are the two original images without borders:  
+The two original images are border-free.  
 ![](/images/forcast.png)
 ![](/images/reality.png)  
 
