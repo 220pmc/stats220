@@ -82,7 +82,7 @@ Below is an illustration of a typical 4-square meme:
 | --- | --- |
 | **Photo 2** | **Caption** |
 
-However, I believe that it will be a liitle bit boring to see lots of 4-square memes. Thus, I added a frame around the images and annotations by calling image_scale and image_extent function 4 times. I think the meme now is more interesting and eye-catching.  
+However, I believe that it will be boring to see lots of 4-square memes. Thus, I added a frame around the images and annotations by calling image_scale and image_extent function 4 times. I think the meme now is more interesting and eye-catching.  
 The two original images are border-free.  
 ![](/images/forecast.png)
 ![](/images/reality.png)  
@@ -97,4 +97,4 @@ File details the meme image:
 Available: [https://letstalkscience.ca/educational-resources/stem-in-context/why-weather-so-hard-predict](https://letstalkscience.ca/educational-resources/stem-in-context/why-weather-so-hard-predict) [Accessed: 13-Mar-2022]
 
 ## Last update
-19/3/2022 00:03
+19/3/2022 00:05
