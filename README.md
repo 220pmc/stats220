@@ -1,6 +1,6 @@
 # stats220
 Welcome to my very first repository! I am a student who is learning statistic, `R` and `Markdown` language now.  
-And I believe that setting up a repository is a pretty good start to learn Markdown language.
+And I believe that setting up a repository is a pretty good start to learn Markdown language.  
 You may now find the following content in this repository:
 
 * Stats 220 Assignment 1 .
